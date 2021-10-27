@@ -1,0 +1,910 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"widg",
+				"widgetElement"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"var",
+				"var_dump()"
+			],
+			[
+				"caousel",
+				"carouselproduct"
+			],
+			[
+				"va",
+				"var_dump()"
+			],
+			[
+				"merc",
+				"merchant"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"wi",
+				"widget_type"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"recension",
+				"recensioni-carosello-2"
+			],
+			[
+				"off",
+				"offset-0"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"_s",
+				"_style_ver"
+			],
+			[
+				"_",
+				"_widget_type"
+			],
+			[
+				"widget",
+				"widgetsList"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"caro",
+				"carosello-2"
+			],
+			[
+				"car",
+				"carosello-1"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"w",
+				"widget_containers"
+			],
+			[
+				"Fe",
+				"FeedatyIframe"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"con",
+				"app_config"
+			],
+			[
+				"multi",
+				"widget-multiple"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"thi",
+				"this-"
+			],
+			[
+				"sty",
+				"style_ver"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"j",
+				"js_template"
+			],
+			[
+				"_wi",
+				"_widget_type"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fe",
+				"feedaty_response"
+			],
+			[
+				"fee",
+				"feedaty_widgets"
+			],
+			[
+				"Fee",
+				"FeedatyWidget"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"res",
+				"resource_translations"
+			],
+			[
+				"static",
+				"staticTemplate"
+			],
+			[
+				"resources",
+				"resources_path"
+			],
+			[
+				"resouce",
+				"resources_path"
+			],
+			[
+				"loadC",
+				"loadCSS"
+			],
+			[
+				"is",
+				"isFirstLoad"
+			],
+			[
+				"scri",
+				"scriptURL"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"_w",
+				"_widget_type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/www/laravel8-forum/ddev-laravel/database/factories/UserFactory.php",
+			"redo_stack":
+			[
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAF0BAAAAAAAAXQEAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"left_delete",
+					null,
+					"AgAAAF0BAAAAAAAAXgEAAAAAAAAAAAAAXgEAAAAAAABfAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAF8BAAAAAAAAXwEAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAF0BAAAAAAAAXQEAAAAAAAACAAAAJyc",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFwBAAAAAAAAXAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " =>"
+					},
+					"AwAAAFsBAAAAAAAAWwEAAAAAAAABAAAAPloBAAAAAAAAWgEAAAAAAAABAAAAPVkBAAAAAAAAWQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "role"
+					},
+					"BAAAAFcBAAAAAAAAVwEAAAAAAAABAAAAZVYBAAAAAAAAVgEAAAAAAAABAAAAbFUBAAAAAAAAVQEAAAAAAAABAAAAb1QBAAAAAAAAVAEAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAFMBAAAAAAAAUwEAAAAAAAACAAAAJyc",
+					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAEcBAAAAAAAARwEAAAAAAAAMAAAAICAgICAgICAgICAgRgEAAAAAAABGAQAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAUwEAAAAAAABTAQAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 900,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "cript"
+					},
+					"BgAAAL4BAAAAAAAAvwEAAAAAAAAAAAAAvwEAAAAAAAC/AQAAAAAAAAcAAABsb3dmaXNovwEAAAAAAADAAQAAAAAAAAAAAADAAQAAAAAAAMEBAAAAAAAAAAAAAMEBAAAAAAAAwgEAAAAAAAAAAAAAwgEAAAAAAADDAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQEAAAAAAAC+AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "2014_10_12_000000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 798,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/www/laravel8-forum"
+	],
+	"file_history":
+	[
+		"/C/www/laravel8-forum/ddev-laravel/database/migrations/2021_10_27_205157_create_comments_table.php",
+		"/C/www/laravel8-forum/ddev-laravel/database/migrations/2021_10_27_204930_create_topics_table.php",
+		"/C/www/laravel8-forum/ddev-laravel/database/seeders/CommentSeeder.php",
+		"/C/www/laravel8-forum/ddev-laravel/database/seeders/UserSeeder.php",
+		"/C/www/laravel8-forum/ddev-laravel/routes/web.php",
+		"/C/www/laravel8-forum/ddev-laravel/database/factories/UserFactory.php",
+		"/C/www/laravel8-forum/ddev-laravel/resources/views/welcome.blade.php",
+		"/C/www/laravel8-forum/ddev-laravel/app/Models/User.php",
+		"/C/www/laravel8-forum/ddev-laravel/config/database.php",
+		"/C/www/laravel8-forum/ddev-laravel/.env",
+		"/C/www/laravel8-forum/ddev-laravel/.ddev/config.yaml",
+		"/C/Windows/System32/drivers/etc/my-laravel8-forum",
+		"/C/www/my-laravel8-forum/ddev-laravel/database/migrations/draft_create_comments_table.php",
+		"/C/www/my-laravel8-forum/ddev-laravel/.env",
+		"/C/www/my-laravel8-forum/ddev-laravel/.ddev/.ddev-docker-compose-full.yaml",
+		"/C/www/my-laravel8-forum/ddev-laravel/.ddev/docker.compose.redis.yaml",
+		"/C/www/my-laravel8-forum/ddev-laravel/database/migrations/create_topics_table.php",
+		"/C/www/my-laravel8-forum/ddev-laravel/.ddev/config.yaml",
+		"/C/www/my-laravel8-forum/ddev-laravel/routes/api.php",
+		"/C/www/zoorate_widgets/widgets_v6/js/feed_v6.js",
+		"/C/www/zoorate_widgets/widgets_v6/CHANGELOG.md",
+		"/C/Program Files/PHP/php.ini-production",
+		"/C/Program Files/PHP/v7.4/php.ini-development",
+		"/C/Program Files/PHP/v7.4/php.ini-production",
+		"/C/xampp/php/php.ini-production",
+		"/C/xampp/php/php.ini-development",
+		"/C/Users/Administrator/Desktop/advertise cosimo martinezx",
+		"/C/www/zoorate_widgets/test/widgets_v6.html",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa14100.46372/Observe.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa13116.8448/Observe.php",
+		"/C/www/zoorate_widgets/widgets_v6/index.php",
+		"/C/www/zoorate_widgets/widgets_v6/js/feed_v6.2.0.js",
+		"/C/www/zoorate_widgets/widgets_v6/js/feed_v6.1.0.js",
+		"/C/www/zoorate_widgets/widgets_v6/js/feed_v6.0.0.js",
+		"/C/www/zoorate_widgets/widgets_v6/js/dynamic_v6.js",
+		"/C/www/zoorate_widgets/widgets_v6/js/dynamic_v6.2.0.js",
+		"/C/www/zoorate_widgets/widgets_v6/js/dynamic_v6.1.0.js",
+		"/C/www/zoorate_widgets/widgets_v6/js/dynamic_v6.0.0.js",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa3020.8202/Observe.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa3020.7457/Generate.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa3020.5998/Order.php",
+		"/C/www/zoorate_widgets/extra/go.check_v3.php",
+		"/C/www/zoorate_widgets/extra/go.feed_be.php",
+		"/C/www/zoorate_widgets/extra/go.feed.php",
+		"/C/www/zoorate_widgets/extra/go.extra.php",
+		"/C/www/zoorate_widgets/extra/func.referrer_manage.php",
+		"/C/www/zoorate_widgets/extra/func.widget_generate_html_src.php",
+		"/C/www/zoorate_widgets/extra/func.widget_create.php",
+		"/C/www/zoorate_widgets/extra/go.main.php",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/admin/backoffice.tpl",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/feedaty.php",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/front/product-reviews.tpl",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/front/product-carousel.php",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/hook/feedaty-widget-store.tpl",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/hook/product-list-reviews.tpl",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/lib/FeedatyGenerateElements.php",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/front/OLDproduct-nanowidget.tpl",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/CHANGELOG.md",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/config_it.xml",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/config.xml",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/css/ps_style.16.css",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/hook/feedaty-template-product.tpl",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/lib/FeedatyWebservice.php",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/templates/admin/landing.tpl",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/views/css/product-list-reviews.css",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/css/ps_style.css",
+		"/C/www/dev.prestashop.local/website/modules/feedaty/css/feedaty_styles.css",
+		"/C/www/dev.prestashop.local/website/config/defines.inc.php",
+		"/C/www/cosimomartinez.com/laravel/storage/logs/laravel.log",
+		"/C/www/cosimomartinez.com/laravel/.env",
+		"/C/www/cosimomartinez.com/laravel/resources/views/welcome.blade.php",
+		"/C/xampp/php/windowsXamppPhp/php.ini-development",
+		"/C/xampp/php/windowsXamppPhp/php.ini-production",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/www/cosimomartinez.com/.gitignore",
+		"/C/www/cosimomartinez.com/README.md",
+		"/C/www/cosimomartinez.com/CHANGELOG.md",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/models/model.api.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-4/css/carouselproduct.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-4/views/carouselproduct.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-3/views/carouselproduct.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-3/css/carouselproduct.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-2/views/carouselproduct.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-2/css/carouselproduct.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-1/css/carouselproduct.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-1/views/carouselproduct.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-3/css/carousel.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-3/views/carousel.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-2/views/carousel.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-2/css/carousel.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-1/views/carousel.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-1/css/carousel.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/.htaccess",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/documentation.html",
+		"/C/www/feedatywidgets/widgets/.gitignore",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/demo/widgets_feedaty_test/widgets_feedaty.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/demo/widgets_feedaty_test/widget_feedaty_production.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/js/feedaty_iframe.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/js/feedaty.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/.env.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/models/model.template.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/CHANGELOG.md",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/www/feedatywidgets/widgets/widgets_feedaty.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/default/js/feedaty.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/default/js/feedaty_iframe.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/index.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-4/css/carousel.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-4/views/carousel.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-4/css/original_carousel.css",
+		"/C/Users/Administrator/Downloads/master (1)/responsive-css-only-carousel-slider/css/style.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-4/views/original_carousel.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-4/js/feedaty_iframe.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-4/index.html",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/carosello-4/demo.css",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa11400.36703/style.css",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-1/js/feedaty_iframe.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/models/data/2021/data.widgetlist.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-2/js/feedaty_iframe.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-1/js/feedaty.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/recensioni-carosello-2/js/feedaty_js.js",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/default/i18n/it-IT.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/default/i18n/fr-FR.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/default/i18n/es-ES.php",
+		"/C/www/feedatywidgets/widgets/smarty-3.1.39/app/public/2021/default/i18n/en-US.php"
+	],
+	"find":
+	{
+		"height": 70.4
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+			"C:\\www\\zoorate_widgets\\extra,<project filters>",
+			"<current file>",
+			"C:\\www\\dev.prestashop.local\\website\\modules\\feedaty,<project filters>",
+			"<current file>",
+			"C:\\www\\feedatywidgets\\widgets\\smarty-3.1.39\\app",
+			"<current file>",
+			"C:\\Users\\Administrator\\Desktop\\DEVELOPE\\ZOORATE\\Widgets_Feedaty\\smarty-3.1.39\\app\\public\\",
+			"C:\\Users\\Administrator\\Desktop\\DEVELOPE\\ZOORATE\\Widgets_Feedaty\\smarty-3.1.39\\app\\public\\2021\\variant1",
+			"C:\\Users\\Administrator\\Desktop\\DEVELOPE\\ZOORATE\\Widgets_Feedaty\\smarty-3.1.39\\app\\public\\2021\\default",
+			"C:\\Users\\Administrator\\Desktop\\DEVELOPE\\ZOORATE\\Widgets_Feedaty\\smarty-3.1.39\\app\\public\\2021\\variant0",
+			"C:\\Users\\Administrator\\Desktop\\DEVELOPE\\ZOORATE\\Widgets_Feedaty\\smarty-3.1.39\\app\\public\\2021",
+			"C:\\Users\\Administrator\\Desktop\\DEVELOPE\\ZOORATE\\Widgets_Feedaty\\smarty-3.1.39\\app\\public\\2021\\default"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"db",
+			"php",
+			"ddev",
+			"memory",
+			"get_id_from_cache",
+			"function get_id_from_cache",
+			"get_id_from_cache",
+			"feedaty_widget_carouselproduct_enabled",
+			"carousel_pro",
+			"tab",
+			"listre",
+			"fetchTemplate",
+			"preview",
+			"product-na",
+			"nanowi",
+			"shopurl",
+			"generatestar",
+			"lang",
+			"#BE3232;",
+			"2.2.5",
+			"widget_carouselproduct_enabled",
+			"carouselpr",
+			"feedaty_carouselproduct_position",
+			"sku",
+			"feedatySmartyWidgets",
+			"carouselproduct_template",
+			"widget_carouselpro",
+			"carouselproduct_template",
+			"productcarousel",
+			"fdGetTemplate",
+			"template",
+			"install",
+			"#BE3232",
+			"3232",
+			"logo",
+			"feedaty_logo\n",
+			"fdGetTemplate",
+			"variants",
+			"vari",
+			"shown",
+			"name_s",
+			"fdgetda",
+			"getdata",
+			"ssl",
+			"mbs",
+			"fileinf",
+			"filein",
+			"curl",
+			"documentr",
+			"vh",
+			"widget_s",
+			"feedaty.c",
+			".fdt_{$WidgetID}_widget_product .fdt_{$WidgetID}_widget_product",
+			".feedaty_widget",
+			".fdt_widget_product",
+			"_{$WidgetID}",
+			".fdt_{$WidgetID}_widget_product  .fdt_{$WidgetID}_widget_product",
+			".fdt_{$WidgetID}_widget_product .fdt_{$WidgetID}_widget_product",
+			".feedaty_widget",
+			".fdt_widget",
+			".fdt_widget_product",
+			"_{$WidgetID}",
+			".fdt_{$WidgetID}_widget_product .fdt_{$WidgetID}_widget_product",
+			".feedaty_widget",
+			".fdt_widget_product",
+			"_{$WidgetID}",
+			".feedaty_widget",
+			".fdt_widget_product",
+			".fdt_{$WidgetID}_widget_product",
+			"_{$WidgetID}",
+			".fdt_widget_merchant",
+			"_{$WidgetID}",
+			".fdt_widget_merchant",
+			"_{$WidgetID}",
+			"widget_merchant",
+			".feedaty_wi",
+			"_{$WidgetID}",
+			"date",
+			"avg",
+			"allre",
+			"_text",
+			"text",
+			"esempio",
+			"stage",
+			"https://widget.stage.feedaty.com",
+			"color: #",
+			".fdt_{$WidgetID}_rev",
+			".content",
+			"_text",
+			"right: 100",
+			"left:100",
+			"left: 100",
+			"_rev",
+			"carose",
+			"backgro",
+			"background-c",
+			"carosello",
+			"_rev",
+			"rev_sta",
+			"rev_bl",
+			"rev",
+			"_rev",
+			"content",
+			"ratx_s",
+			"stars",
+			".feedaty_widget .fdt_{$WidgetID}_widget_product ",
+			"shape",
+			"background-col",
+			"carosel",
+			"background-co",
+			"carosello",
+			"date",
+			"color:",
+			";\n",
+			"rev_sta",
+			"ratx_s",
+			"review",
+			"rev_{$widgetID}_te",
+			"rev_s",
+			"star",
+			"text",
+			"date",
+			"merchant",
+			"208",
+			"rev",
+			"carosel",
+			"backgr",
+			"carosello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"carouselproduct",
+			"carouselproduct\n",
+			" #193654\n",
+			".fdt_{$WidgetID}_widget_product",
+			"",
+			".fdt_{$WidgetID}_widget_product",
+			"",
+			".fdt_{$WidgetID}_widget_product",
+			"",
+			".fdt_{$WidgetID}_widget_product",
+			".fdt_widget_product",
+			"",
+			".fdt_{$WidgetID}_widget_merchant",
+			"",
+			".fdt_{$WidgetID}_widget_merchant",
+			"",
+			"{$APP_URL}",
+			"product",
+			"content",
+			"Arial",
+			"FeedatyWidget",
+			"offset-0",
+			"offset-1",
+			"h6",
+			".",
+			"product",
+			"carosello-3",
+			"",
+			"carosello-2",
+			"h4",
+			"feedaty",
+			"setSliderListener",
+			"product",
+			"this.merchant_code",
+			"merchant_code",
+			"feedaty",
+			"default"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/www/laravel8-forum/ddev-laravel/database/factories/UserFactory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "2014_10_12_000000_create_users_table.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								624,
+								624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.4
+	},
+	"input":
+	{
+		"height": 61.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel8-forum.sublime-project",
+	"replace":
+	{
+		"height": 41.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 297.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 792.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 427.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
