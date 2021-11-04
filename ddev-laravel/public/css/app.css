@@ -10004,3 +10004,55 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.content {
+  padding: 10px 15px 10px 15px;
+}
+
+.clearfix {
+  height: 1px;
+  margin: 10px 0 10px 0;
+  width: 100%;
+  float: left;
+  background: #000;
+}
+
+.btn-new-topic {
+  float: left;
+  margin: 10px 0 10px 0;
+}
+
+.topic-content {
+  float: left;
+  width: 100%;
+}
+
+.topic h4 {
+  float: left;
+  height: 50px;
+}
+
+.topic-actions {
+  float: right;
+  margin-right: 20px;
+  width: 200px;
+  height: 50px;
+}
+
+.topic p {
+  float: left;
+  width: 100%;
+}
+
+.comments {
+  float: left;
+  margin-left: 5%;
+}
+
+.comment-content {
+  margin-left: 20px;
+}
+
+.btn-new-comment {
+  float: left;
+  margin: 5px 0 5px 0;
+}

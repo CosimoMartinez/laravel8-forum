@@ -13,12 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+Route::get('/', [App\Http\Controllers\TopicController::class, 'index']);
 
 Auth::routes([
     'register' => false
 ]);
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/home', [App\Http\Controllers\TopicController::class, 'index'])->name('home');
+
+Route::resource('comments', App\Http\Controllers\CommentController::class);
+
+Route::resource('topics', App\Http\Controllers\TopicController::class);
