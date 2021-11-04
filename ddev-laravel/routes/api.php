@@ -14,11 +14,12 @@ use App\Http\Controllers\Api\TopicController;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
+Route::middleware('auth:sanctum')->group( function () {
 
-Route::apiResource('topics', TopicController::class);
+    Route::apiResource('topics', TopicController::class);
+    Route::apiResource('comments', CommentController::class);
 
-Route::apiResource('comments', CommentController::class);
-
+});
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });

@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers\API;
 
+use App\Models\Topic;
+use App\Http\Resources\TopicResource;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
